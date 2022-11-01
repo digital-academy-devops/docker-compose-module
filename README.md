@@ -5,7 +5,7 @@
 - знакомство с синтаксисом и командами [Docker-compose](https://docs.docker.com/compose/);
 - знакомство с веб-сервером [nginx](https://nginx.org/ru/);
 
-## Предварительная настройка
+## Предварительные требования
 
 1. Предполагается, что вы выполнили [первое задание по модулю Docker](https://github.com/digital-academy-devops/docker-module) и можете собрать образ приложения.
 
